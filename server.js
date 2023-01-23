@@ -1,5 +1,6 @@
 const http = require("http");
 const path = require("path");
+const api = require("./api/index.js");
 const fs = require("fs");
 const port = 5000;
 
